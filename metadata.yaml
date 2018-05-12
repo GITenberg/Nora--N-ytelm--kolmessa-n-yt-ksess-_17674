@@ -1,0 +1,30 @@
+_repo: Nora--N-ytelm--kolmessa-n-yt-ksess-_17674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2006-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17674'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcsh 'Wives -- Drama'
+- !lcc 'PT'
+- !lcsh 'Marriage -- Drama'
+title: 'Nora: Näytelmä kolmessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/17674
